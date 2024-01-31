@@ -1,6 +1,7 @@
 I have done this app using **edmam api**  for getting my recipe data's
 https://www.edamam.com
-output of my website: 
+
+**OUTPUT:**
 ![image](https://github.com/Codewithkarthi/Recipe-react-app/assets/148317926/4e1ef4c6-a998-4008-a0d5-ff2264014ab8)
 
 # Getting Started with Create React App
