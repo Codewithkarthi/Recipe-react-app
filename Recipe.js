@@ -20,3 +20,4 @@ const Recipe = ({title,calories,image,ingredients}) =>{
 
 } 
 export default Recipe;
+
